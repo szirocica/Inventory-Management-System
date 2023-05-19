@@ -1,17 +1,17 @@
 # Inventory-Management-System-2
-Professional looking inventory management system using c#.Net, Bunifu and Guna UI elements, Sql server
+Professional looking inventory management system using c#.Net, Bunifu and Guna UI elements, Sql server<br>
 
-The Application allows to:
--Create, delete and update users
--Create, delete and update products.
--Create, delete and update products categories.
--Create, delete and update customers
--Add Orders 
-When a user orders a product, the product quantity is updated
--The Order can be printed
--A dashboard presents the Number of orders made by a particular customer, The total amount of the orders by the given customer and the date of the last order.
+The Application allows to:<br>
+-Create, delete and update users<br>
+-Create, delete and update products.<br>
+-Create, delete and update products categories.<br>
+-Create, delete and update customers<br>
+-Add Orders <br>
+When a user orders a product, the product quantity is updated<br>
+-The Order can be printed<br>
+-A dashboard presents the Number of orders made by a particular customer, The total amount of the orders by the given customer and the date of the last order.<br>
 
-How to use the application:
+How to use the application:<br>
 -create an mdf database file and update sql connection<br>
 -create the following tables:
 
