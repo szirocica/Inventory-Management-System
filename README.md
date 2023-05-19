@@ -12,7 +12,7 @@ When a user orders a product, the product quantity is updated
 -A dashboard presents the Number of orders made by a particular customer, The total amount of the orders by the given customer and the date of the last order.
 
 How to use the application:
--create an mdf database file and update sql connection
+-create an mdf database file and update sql connection<br>
 -create the following tables:
 
 CREATE TABLE [dbo].[CategoryTable] (
@@ -55,8 +55,8 @@ CREATE TABLE [dbo].[UserTable] (
     CONSTRAINT [PK_Table] PRIMARY KEY CLUSTERED ([Uphone] ASC)
 );
 
--Insert a user to users table
--start the app
--login with the previously inserted user
+-Insert a user to users table<br>
+-start the app<br>
+-login with the previously inserted user<br>
 
 
